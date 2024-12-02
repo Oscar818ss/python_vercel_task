@@ -192,6 +192,10 @@ publish/
 # in these scripts will be unencrypted
 PublishScripts/
 
+# no usar
+**/__pycache__/*
+*.env
+
 # NuGet Packages
 *.nupkg
 # NuGet Symbol Packages
